@@ -1,0 +1,12 @@
+note:
+created on : 1/29/18
+
+React: 16.7
+Redux: 4
+React-Redux: 6
+Bootstrap : 4
+
+
+Simple redux code
+Create, delete and view.
+Pending: Update the selected person. (able to fetch the person on update button click. need to complete the edit functionality)

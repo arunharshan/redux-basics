@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family:  "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    background: #F5F6F7 !important;
+    /* background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%); */
+    color: #1F2667 !important;
+}
