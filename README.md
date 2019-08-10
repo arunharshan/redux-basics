@@ -1,13 +1,14 @@
 # Basic react redux app - Addressbook
 
-### clone repo npm i
+- clone repo and  npm i
 
-### npm run start
+- npm run start
 
-### Build
+- Build
 
-### npm run build
+- npm run build
 
-### Uploaded to Heroku
+- Uploaded to Heroku
 
-# Demo Url:
+## Demo Url:
+https://redux-addressbook.herokuapp.com/
